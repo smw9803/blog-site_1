@@ -34,6 +34,3 @@ Then connect your domain in the host's settings. A `.com.au` domain requires an 
 2. Update the title, description, canonical link, date and body.
 3. Add it to the list on `index.html` and as a new `<url>` in `sitemap.xml`.
 
-## Before you publish
-
-Keep content to your own experience and general information. Don't mention clients or your firm, and check your employment contract for social media and conflict clauses. Not financial or legal advice.
